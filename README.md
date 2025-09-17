@@ -55,6 +55,7 @@ This project was developed following **Agile development practices** with a focu
 - Intuitive UI/UX with Tailwind CSS  
 - Error handling and form validations with React Hook Form
 -
+-
 - 
 <br>
 
