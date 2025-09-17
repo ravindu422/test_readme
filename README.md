@@ -54,9 +54,6 @@ This project was developed following **Agile development practices** with a focu
 - Fully responsive design for mobile & desktop  
 - Intuitive UI/UX with Tailwind CSS  
 - Error handling and form validations with React Hook Form
--
--
-- 
 <br>
 
 ## 🛠 Tech Stack & Libraries
